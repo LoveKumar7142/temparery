@@ -1,2 +1,3 @@
 hello this is one file
 this is another text i add after push using command git push origin main
+this is another text i add after push using command git push -u or upstream origin main
